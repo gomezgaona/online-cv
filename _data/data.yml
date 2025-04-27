@@ -4,7 +4,7 @@
 
 sidebar:
   position: left # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -13,11 +13,11 @@ sidebar:
   avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: jagomez@fortlewis.edu
+  email: jagomez<at>fortlewis+edu
   # phone: 012 345 6789
   timezone: America/Mountain # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #citizenship:
-  website: https://gomezgaona.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
+  #website: https://gomezgaona.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
   #linkedin: alandoe
   #xing: alandoe
   github: https://github.com/gomezgaona
