@@ -70,28 +70,21 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ph.D. in Informatics
+    university: University of South Carolina
+    time: January 2019 - July 2024
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Studied at the Integrated Information Technology Department. Research involved networking, cybersecurity, and programmable data planes, resulting in numerous publications and workshops.
+        - Conducted hands-on workshops funded by NSF and ONR.
+        - Published over 20 papers in refereed journals and conferences.
+  - degree: Electronic Engineer (Eng)
+    university: Catholic University of Asuncion
+    time: March 2010 - March 2017
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Studied in the Department of Electronics and Computer Science. Focused on electronics, computer networks, and acoustics.
+        - Published research on particle manipulation using acoustic fields.
+        - Worked as a Research Assistant during final academic years.
+
 
 experiences:
   title: Experiences
