@@ -96,9 +96,7 @@ publications:
     Below is a selection of my peer-reviewed publications across top-tier journals 
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
-  - title: Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes
-    authors: Jose Gomez, Elie Kfoury, Ali Mazloum, Jorge Crichigno
-    conference: Computer Networks, April 2025
+  - title:  J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes," *Computer Networks*, Apr. 2025.
 
  
 
