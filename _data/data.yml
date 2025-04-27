@@ -96,28 +96,27 @@ publications:
     Below is a selection of my peer-reviewed publications across top-tier journals 
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
-  - title: J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes," Computer Networks, Apr. 2025.
-  - title: E. Kfoury, A. Mazloum, J. Gomez, A. AlSabeh, and J. Crichigno, "Real-Time Flow Statistics Collection using RDMA and P4 Programmable Data Planes," IEEE International Conference on Communications, Montreal, Canada, Jun. 2025.
-  - title: A. Garcia-Lopez, E. Kfoury, J. Gomez, J. Crichigno, and J. Galan-Jimenez, "Real-Time Congestion Control Algorithm Identification with P4 Programmable Switches," IEEE Network Operations and Management Symposium, Honolulu, Hawaii, May 2025.
-  - title: J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Enabling Fairness in Flow Allocation using P4-programmable Data Planes," IEEE Global Communications Conference, Cape Town, South Africa, Dec. 2024.
-  - title: E. Kfoury, S. Choueiri, A. Mazloum, A. AlSabeh, J. Gomez, and J. Crichigno, "A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions," IEEE Access, Aug. 2024.
-  - title: J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Improving TCP Fairness in Non-programmable Networks using P4-programmable Data Planes," IEEE International Black Sea Conference on Communications and Networking, Tbilisi, Georgia, Jun. 2024.
-  - title: J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Reducing the Impact of RTT Unfairness using P4-Programmable Data Planes," IEEE International Conference on Communications, Denver, Colorado, Jun. 2024.
-  - title: C. Vega, E. Kfoury, J. Gomez, J. Pezoa, M. Figueroa, and J. Crichigno, "Machine Learning Controller for Data Rate Management in Science DMZ Networks," Computer Networks, Apr. 2024.
-  - title: J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Evaluating TCP BBRv3 Performance in Wired Broadband Networks," Computer Communications, Apr. 2024.
-  - title: J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "A Survey on Network Simulators, Emulators, and Testbeds used for Research and Education," Computer Networks, Oct. 2023.
-  - title: A. Mazloum, J. Gomez, E. Kfoury, and J. Crichigno, "Enhancing perfSONAR Measurement Capabilities using P4 Programmable Data Planes," 10th Annual International Workshop on Innovating the Network for Data-Intensive Science, Denver, Colorado, Nov. 2023.
-  - title: J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Understanding the Performance of TCP BBRv2 using FABRIC," IEEE International Black Sea Conference on Communications and Networking, Istanbul, Turkey, Jul. 2023.
-  - title: A. Mazloum, J. Gomez, E. Kfoury, and J. Crichigno, "A Survey on Rerouting Techniques with P4 Programmable Data Plane Switches," Computer Networks, Apr. 2023.
-  - title: J. Gomez, E. Kfoury, and J. Crichigno, "Enabling P4 Hands-on Training in an Academic Cloud," International Conference on Distributed Computing in Sensor Systems, Los Angeles, California, May 2022.
-  - title: J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "A Survey on TCP Enhancements using P4-programmable Devices," Computer Networks, Apr. 2022.
-  - title: E. Kfoury, J. Gomez, J. Crichigno, and E. Bou-Harb, "An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband," Computer Communications, Sep. 2020.
-  - title: E. Kfoury, D. Khoury, A. AlSabeh, J. Gomez, J. Crichigno, and E. Bou-Harb, "A Blockchain-based Method for Decentralizing the ACME Protocol to Enhance Trust in PKI," IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, Jul. 2020.
-  - title: J. Gomez, E. Kfoury, J. Crichigno, E. Bou-Harb, and G. Srivastava, "A Performance Evaluation of TCP BBRv2 Alpha," IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, Jul. 2020.
-  - title: J. Crichigno, E. Bou-Harb, E. Kfoury, J. Gomez, and A. Magnino, "Training Engineering Students and IT Professionals on High-throughput Networking and Cybersecurity using a Virtual Environment," Annual Conference of the American Society for Engineering Education, Virtual Conference, Jun. 2020.
-  - title: E. Kfoury, J. Gomez, J. Crichigno, E. Bou-Harb, and D. Khoury, "Decentralized Distribution of PCP Mappings Over Blockchain for End-to-End Secure Direct Communications," IEEE Access, Aug. 2019.
-  - title: E. Vargas and J. Gomez, "Manipulacion sin Contacto de Particulas Utilizando Campos de Ondas Acusticas," 9no Encuentro del Grupo Latinoamericano de Emision Acustica, Obera, Misiones, Argentina, Aug. 2017.
-
+  - title: 'J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes," Computer Networks, Apr. 2025.'
+  - title: 'E. Kfoury, A. Mazloum, J. Gomez, A. AlSabeh, and J. Crichigno, "Real-Time Flow Statistics Collection using RDMA and P4 Programmable Data Planes," IEEE International Conference on Communications, Montreal, Canada, Jun. 2025.'
+  - title: 'A. Garcia-Lopez, E. Kfoury, J. Gomez, J. Crichigno, and J. Galan-Jimenez, "Real-Time Congestion Control Algorithm Identification with P4 Programmable Switches," IEEE Network Operations and Management Symposium, Honolulu, Hawaii, May 2025.'
+  - title: 'J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Enabling Fairness in Flow Allocation using P4-programmable Data Planes," IEEE Global Communications Conference, Cape Town, South Africa, Dec. 2024.'
+  - title: 'E. Kfoury, S. Choueiri, A. Mazloum, A. AlSabeh, J. Gomez, and J. Crichigno, "A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions," IEEE Access, Aug. 2024.'
+  - title: 'J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Improving TCP Fairness in Non-programmable Networks using P4-programmable Data Planes," IEEE International Black Sea Conference on Communications and Networking, Tbilisi, Georgia, Jun. 2024.'
+  - title: 'J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Reducing the Impact of RTT Unfairness using P4-Programmable Data Planes," IEEE International Conference on Communications, Denver, Colorado, Jun. 2024.'
+  - title: 'C. Vega, E. Kfoury, J. Gomez, J. Pezoa, M. Figueroa, and J. Crichigno, "Machine Learning Controller for Data Rate Management in Science DMZ Networks," Computer Networks, Apr. 2024.'
+  - title: 'J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Evaluating TCP BBRv3 Performance in Wired Broadband Networks," Computer Communications, Apr. 2024.'
+  - title: 'J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "A Survey on Network Simulators, Emulators, and Testbeds used for Research and Education," Computer Networks, Oct. 2023.'
+  - title: 'A. Mazloum, J. Gomez, E. Kfoury, and J. Crichigno, "Enhancing perfSONAR Measurement Capabilities using P4 Programmable Data Planes," 10th Annual International Workshop on Innovating the Network for Data-Intensive Science, Denver, Colorado, Nov. 2023.'
+  - title: 'J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "Understanding the Performance of TCP BBRv2 using FABRIC," IEEE International Black Sea Conference on Communications and Networking, Istanbul, Turkey, Jul. 2023.'
+  - title: 'A. Mazloum, J. Gomez, E. Kfoury, and J. Crichigno, "A Survey on Rerouting Techniques with P4 Programmable Data Plane Switches," Computer Networks, Apr. 2023.'
+  - title: 'J. Gomez, E. Kfoury, and J. Crichigno, "Enabling P4 Hands-on Training in an Academic Cloud," International Conference on Distributed Computing in Sensor Systems, Los Angeles, California, May 2022.'
+  - title: 'J. Gomez, E. Kfoury, J. Crichigno, and G. Srivastava, "A Survey on TCP Enhancements using P4-programmable Devices," Computer Networks, Apr. 2022.'
+  - title: 'E. Kfoury, J. Gomez, J. Crichigno, and E. Bou-Harb, "An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband," Computer Communications, Sep. 2020.'
+  - title: 'E. Kfoury, D. Khoury, A. AlSabeh, J. Gomez, J. Crichigno, and E. Bou-Harb, "A Blockchain-based Method for Decentralizing the ACME Protocol to Enhance Trust in PKI," IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, Jul. 2020.'
+  - title: 'J. Gomez, E. Kfoury, J. Crichigno, E. Bou-Harb, and G. Srivastava, "A Performance Evaluation of TCP BBRv2 Alpha," IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, Jul. 2020.'
+  - title: 'J. Crichigno, E. Bou-Harb, E. Kfoury, J. Gomez, and A. Magnino, "Training Engineering Students and IT Professionals on High-throughput Networking and Cybersecurity using a Virtual Environment," Annual Conference of the American Society for Engineering Education, Virtual Conference, Jun. 2020.'
+  - title: 'E. Kfoury, J. Gomez, J. Crichigno, E. Bou-Harb, and D. Khoury, "Decentralized Distribution of PCP Mappings Over Blockchain for End-to-End Secure Direct Communications," IEEE Access, Aug. 2019.'
+  - title: 'E. Vargas and J. Gomez, "Manipulacion sin Contacto de Particulas Utilizando Campos de Ondas Acusticas," 9no Encuentro del Grupo Latinoamericano de Emision Acustica, Obera, Misiones, Argentina, Aug. 2017.'
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
