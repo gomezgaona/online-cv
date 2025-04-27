@@ -5,7 +5,7 @@
 sidebar:
   position: left # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Jose Gomez
@@ -61,12 +61,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am an Assistant Professor at Fort Lewis College, specializing in Computer Information Systems and Business Analytics. 
+    My academic career is supported by a Ph.D. in Informatics from the University of South Carolina, where I conducted research 
+    on networking, cybersecurity, and programmable data planes, leading to multiple publications in high-impact journals and conferences.
+
+    Prior to joining Fort Lewis College, I gained extensive research experience through roles at the University of South Carolina 
+    and the Catholic University of Asuncion. My work bridges academic excellence with industry certifications, focusing on 
+    cutting-edge technologies like TCP Congestion Control, SDN, Open vSwitch, and programmable networking with P4.
+
+    I am committed to fostering inclusive, hands-on learning environments, as reflected in my culturally responsive 
+    Course-based Undergraduate Research Experiences (CUREs) and NSF/ONR-funded workshop leadership. My goal is to equip students 
+    with the skills and certifications necessary for successful careers in today's technology-driven economy.
+
 education:
   title: Education
   info:
@@ -89,148 +95,238 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Assistant Professor
+    time: August 2024 - Present
+    company: Fort Lewis College, Katz School of Business
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Teaching Computer Information Systems (CIS) and Business Analytics (BA) courses, 
+      integrating industry certifications and research-driven approaches into the curriculum.
+        - Developed culturally responsive CURE projects for cybersecurity and networking courses.
+        - Designed hands-on learning experiences emphasizing industry relevance and inclusivity.
+  - role: Research Assistant
+    time: January 2019 - July 2024
+    company: University of South Carolina, Integrated Information Technology Department
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Conducted research in networking, cybersecurity, and programmable data planes (P4), 
+      resulting in over 20 publications in top-tier journals and conferences.
+        - Led NSF and ONR-funded workshops on advanced networking topics.
+        - Collaborated with national and international institutions to deliver hands-on training sessions.
+  - role: Research Assistant
+    time: March 2017 - December 2018
+    company: Catholic University of Asuncion, Department of Electronics and Informatics
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Supported research projects in electronics and computer science with a focus on network engineering.
+        - Co-authored peer-reviewed papers on acoustic particle manipulation and networking technologies.
+        - Provided teaching support and technical workshops for undergraduate students.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: Microsoft Certified: Azure Fundamentals
+    start: 2024
     end:
     organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    credentialid: 581336-70E52V
+    credentialurl: 
+    credentialname: Microsoft
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      Validated foundational knowledge of cloud services and their delivery with Microsoft Azure.
+      Demonstrated understanding of cloud concepts, core Azure services, pricing, SLA, and lifecycle.
+  - name: Cisco Certified Support Technician (CCST) - Networking and Cybersecurity Pathways
+    start: 2023
+    end:
+    organization: WASTC
+    credentialid: 
+    credentialurl: https://tinyurl.com/2u7k36ft
+    credentialname: Cisco CCST
+    details: |
+      Certification earned through Western Academy Support and Training Center virtual Faculty Development Weeks.
+      Recognized skills in networking fundamentals and cybersecurity principles.
+  - name: Cybersecurity (Security+) and P4 Programmable Switches
+    start: 2023
+    end:
+    organization: WASTC
+    credentialid:
+    credentialurl: https://tinyurl.com/4wnuuf7x
+    credentialname: WASTC
+    details: |
+      Developed expertise in cybersecurity practices and programmable network switches.
+      Training included hands-on labs and real-world applications.
+  - name: JSE-Certified Entry-Level JavaScript Programmer
+    start: 2023
+    end:
+    organization: JSE Certification
+    credentialid:
+    credentialurl: https://tinyurl.com/2cnzppze
+    credentialname: JSE
+    details: |
+      Validated fundamental JavaScript programming skills including variables, loops, functions, and object handling.
+  - name: CCNA: Introduction to Networks
+    start: 2022
+    end:
+    organization: Cisco
+    credentialid:
+    credentialurl: https://tinyurl.com/gomezgajCCNA1
+    credentialname: Cisco CCNA 1
+    details: |
+      Acquired foundational networking knowledge including network access, IP connectivity, IP services, and security fundamentals.
+  - name: CCNA: Switching, Routing, and Wireless Essentials
+    start: 2022
+    end:
+    organization: Cisco
+    credentialid:
+    credentialurl: https://tinyurl.com/gomezgajCCNA2
+    credentialname: Cisco CCNA 2
+    details: |
+      Developed intermediate skills in switching technologies, routing protocols, wireless networking, and security.
+  - name: CCNA: Enterprise Networking, Security, and Automation
+    start: 2022
+    end:
+    organization: Cisco
+    credentialid:
+    credentialurl: https://tinyurl.com/4atsj2fy
+    credentialname: Cisco CCNA 3
+    details: |
+      Completed advanced topics including enterprise-level networking, security, and network automation.
+  - name: Cisco Network Programmability and Automation
+    start: 2022
+    end:
+    organization: WASTC
+    credentialid:
+    credentialurl:
+    credentialname: WASTC
+    details: |
+      Gained hands-on experience configuring programmable networks using automation tools and SDN principles.
+  - name: Cybersecurity Infrastructure Configuration
+    start: 2020
+    end:
+    organization: Palo Alto Networks Cybersecurity Academy
+    credentialid:
+    credentialurl:
+    credentialname: Palo Alto Networks
+    details: |
+      Completed training in configuring secure network infrastructures using Palo Alto firewalls and cybersecurity practices.
+  - name: Introduction to Data Plane Development with P416/TNA
+    start: 2020
+    end:
+    organization: Intel/Barefoot Networks
+    credentialid:
+    credentialurl:
+    credentialname: Intel/Barefoot Networks
+    details: |
+      Trained in the development of programmable data plane applications using the P4 language and Tofino ASIC platform.
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Below is a selection of my peer-reviewed publications across top-tier journals 
+    and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
-  - title: The Art of Computer Programming
+  - title: Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Jose Gomez, Elie Kfoury, Ali Mazloum, Jorge Crichigno
+    conference: Computer Networks, April 2025
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - title: Real-Time Flow Statistics Collection using RDMA and P4 Programmable Data Planes
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors: Elie Kfoury, Ali Mazloum, Jose Gomez, Ali AlSabeh, Jorge Crichigno
+    conference: IEEE International Conference on Communications, Montreal, Quebec, Canada, June 2025
 
-  - title: A syntax directed compiler for Algol 60
+  - title: Real-Time Congestion Control Algorithm Identification with P4 Programmable Switches
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: Andres Garcia-Lopez, Elie Kfoury, Jose Gomez, Jorge Crichigno, Jaime Galan-Jimenez
+    conference: IEEE Network Operations and Management Symposium, Honolulu, Hawai, May 2025
+
+  - title: Enabling Fairness in Flow Allocation using P4-programmable Data Planes
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Ali Mazloum, Jorge Crichigno
+    conference: IEEE Global Communication Conference, Cape Town, South Africa, December 2024
+
+  - title: A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions
+    link: "#"
+    authors: Elie Kfoury, Samia Choueiri, Ali Mazloum, Ali AlSabeh, Jose Gomez, Jorge Crichigno
+    conference: IEEE Access, August 2024
+
+  - title: Improving TCP Fairness in Non-programmable Networks using P4-programmable Data Planes
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: IEEE International Black Sea Conference on Communications and Networking, Tbilisi, Georgia, June 2024
+
+  - title: Reducing the Impact of RTT Unfairness using P4-Programmable Data Planes
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: IEEE International Conference on Communications, Denver, Colorado, June 2024
+
+  - title: Machine Learning Controller for Data Rate Management in Science DMZ Networks
+    link: "#"
+    authors: Christian Vega, Elie Kfoury, Jose Gomez, Jorge Pezoa, Miguel Figueroa, Jorge Crichigno
+    conference: Computer Networks, April 2024
+
+  - title: Evaluating TCP BBRv3 Performance in Wired Broadband Networks
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: Computer Communications, April 2024
+
+  - title: A Survey on Network Simulators, Emulators, and Testbeds used for Research and Education
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: Computer Networks, October 2023
+
+  - title: Enhancing perfSONAR Measurement Capabilities using P4 Programmable Data Planes
+    link: "#"
+    authors: Ali Mazloum, Jose Gomez, Elie Kfoury, Jorge Crichigno
+    conference: 10th Annual International Workshop on Innovating the Network for Data-Intensive Science, Denver, November 2023
+
+  - title: Understanding the Performance of TCP BBRv2 using FABRIC
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: IEEE International Black Sea Conference on Communications and Networking, Istanbul, Turkey, July 2023
+
+  - title: A Survey on Rerouting Techniques with P4 Programmable Data Plane Switches
+    link: "#"
+    authors: Ali Mazloum, Jose Gomez, Elie Kfoury, Jorge Crichigno
+    conference: Computer Networks, April 2023
+
+  - title: Enabling P4 Hands-on Training in an Academic Cloud
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno
+    conference: International Conference on Distributed Computing in Sensor Systems, Los Angeles, May 2022
+
+  - title: A Survey on TCP Enhancements using P4-programmable Devices
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: Computer Networks, April 2022
+
+  - title: An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband
+    link: "#"
+    authors: Elie Kfoury, Jose Gomez, Jorge Crichigno, Elias Bou-Harb
+    conference: Computer Communications, September 2020
+
+  - title: A blockchain-based method for decentralizing the ACME protocol to enhance trust in PKI
+    link: "#"
+    authors: Elie Kfoury, David Khoury, Ali AlSabeh, Jose Gomez, Jorge Crichigno, Elias Bou-Harb
+    conference: IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, July 2020
+
+  - title: A Performance Evaluation of TCP BBRv2 Alpha
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Elias Bou-Harb, Gautam Srivastava
+    conference: IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, July 2020
+
+  - title: Training Engineering Students and IT Professionals on High-throughput Networking and Cybersecurity using a Virtual Environment
+    link: "#"
+    authors: Jorge Crichigno, Elias Bou-Harb, Elie Kfoury, Jose Gomez, Antonio Magnino
+    conference: Annual Conference of the American Society for Engineering Education, Virtual Conference, June 2020
+
+  - title: Decentralized Distribution of PCP Mappings Over Blockchain for End-to-End Secure Direct Communications
+    link: "#"
+    authors: Elie Kfoury, Jose Gomez, Jorge Crichigno, Elias Bou-Harb, David Khoury
+    conference: IEEE Access, August 2019
+
+  - title: Manipulacion sin Contacto de Particulas Utilizando Campos de Ondas Acusticas
+    link: "#"
+    authors: Enrique Vargas, Jose Gomez
+    conference: 9no Encuentro del Grupo Latinoamericano de Emision Acustica, Obera, Misiones, Argentina, August 2017
+
 
 recommendations:
   title: Recommendations
