@@ -13,7 +13,7 @@ sidebar:
   avatar: profile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: jagomez<at>fortlewis+edu
+  email: jagomez"<"at\>fortlewis+edu
   # phone: 012 345 6789
   timezone: America/Mountain # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #citizenship:
@@ -57,7 +57,6 @@ sidebar:
     - item: Cooking
       link:
 
-
 career-profile:
   title: Career Profile
   summary: |
@@ -90,7 +89,6 @@ education:
       Studied in the Department of Electronics and Computer Science. Focused on electronics, computer networks, and acoustics.
         - Published research on particle manipulation using acoustic fields.
         - Worked as a Research Assistant during final academic years.
-
 
 experiences:
   title: Experiences
@@ -326,7 +324,6 @@ publications:
     link: "#"
     authors: Enrique Vargas, Jose Gomez
     conference: 9no Encuentro del Grupo Latinoamericano de Emision Acustica, Obera, Misiones, Argentina, August 2017
-
 
 recommendations:
   title: Recommendations
