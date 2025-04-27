@@ -97,7 +97,6 @@ publications:
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
   - title: Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes
-    link: "#"
     authors: Jose Gomez, Elie Kfoury, Ali Mazloum, Jorge Crichigno
     conference: Computer Networks, April 2025
 
