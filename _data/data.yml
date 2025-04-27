@@ -90,5 +90,116 @@ education:
         - Published research on particle manipulation using acoustic fields.
         - Worked as a Research Assistant during final academic years.
 
+publications:
+  title: Publications
+  intro: |
+    Below is a selection of my peer-reviewed publications across top-tier journals 
+    and international conferences, focusing on networking, cybersecurity, and programmable data planes.
+  papers:
+  - title: Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Ali Mazloum, Jorge Crichigno
+    conference: Computer Networks, April 2025
+
+  - title: Real-Time Flow Statistics Collection using RDMA and P4 Programmable Data Planes
+    link: "#"
+    authors: Elie Kfoury, Ali Mazloum, Jose Gomez, Ali AlSabeh, Jorge Crichigno
+    conference: IEEE International Conference on Communications, Montreal, Quebec, Canada, June 2025
+
+  - title: Real-Time Congestion Control Algorithm Identification with P4 Programmable Switches
+    link: "#"
+    authors: Andres Garcia-Lopez, Elie Kfoury, Jose Gomez, Jorge Crichigno, Jaime Galan-Jimenez
+    conference: IEEE Network Operations and Management Symposium, Honolulu, Hawai, May 2025
+
+  - title: Enabling Fairness in Flow Allocation using P4-programmable Data Planes
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Ali Mazloum, Jorge Crichigno
+    conference: IEEE Global Communication Conference, Cape Town, South Africa, December 2024
+
+  - title: A Comprehensive Survey on SmartNICs: Architectures, Development Models, Applications, and Research Directions
+    link: "#"
+    authors: Elie Kfoury, Samia Choueiri, Ali Mazloum, Ali AlSabeh, Jose Gomez, Jorge Crichigno
+    conference: IEEE Access, August 2024
+
+  - title: Improving TCP Fairness in Non-programmable Networks using P4-programmable Data Planes
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: IEEE International Black Sea Conference on Communications and Networking, Tbilisi, Georgia, June 2024
+
+  - title: Reducing the Impact of RTT Unfairness using P4-Programmable Data Planes
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: IEEE International Conference on Communications, Denver, Colorado, June 2024
+
+  - title: Machine Learning Controller for Data Rate Management in Science DMZ Networks
+    link: "#"
+    authors: Christian Vega, Elie Kfoury, Jose Gomez, Jorge Pezoa, Miguel Figueroa, Jorge Crichigno
+    conference: Computer Networks, April 2024
+
+  - title: Evaluating TCP BBRv3 Performance in Wired Broadband Networks
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: Computer Communications, April 2024
+
+  - title: A Survey on Network Simulators, Emulators, and Testbeds used for Research and Education
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: Computer Networks, October 2023
+
+  - title: Enhancing perfSONAR Measurement Capabilities using P4 Programmable Data Planes
+    link: "#"
+    authors: Ali Mazloum, Jose Gomez, Elie Kfoury, Jorge Crichigno
+    conference: 10th Annual International Workshop on Innovating the Network for Data-Intensive Science, Denver, November 2023
+
+  - title: Understanding the Performance of TCP BBRv2 using FABRIC
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: IEEE International Black Sea Conference on Communications and Networking, Istanbul, Turkey, July 2023
+
+  - title: A Survey on Rerouting Techniques with P4 Programmable Data Plane Switches
+    link: "#"
+    authors: Ali Mazloum, Jose Gomez, Elie Kfoury, Jorge Crichigno
+    conference: Computer Networks, April 2023
+
+  - title: Enabling P4 Hands-on Training in an Academic Cloud
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno
+    conference: International Conference on Distributed Computing in Sensor Systems, Los Angeles, May 2022
+
+  - title: A Survey on TCP Enhancements using P4-programmable Devices
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Gautam Srivastava
+    conference: Computer Networks, April 2022
+
+  - title: An Emulation-based Evaluation of TCP BBRv2 Alpha for Wired Broadband
+    link: "#"
+    authors: Elie Kfoury, Jose Gomez, Jorge Crichigno, Elias Bou-Harb
+    conference: Computer Communications, September 2020
+
+  - title: A blockchain-based method for decentralizing the ACME protocol to enhance trust in PKI
+    link: "#"
+    authors: Elie Kfoury, David Khoury, Ali AlSabeh, Jose Gomez, Jorge Crichigno, Elias Bou-Harb
+    conference: IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, July 2020
+
+  - title: A Performance Evaluation of TCP BBRv2 Alpha
+    link: "#"
+    authors: Jose Gomez, Elie Kfoury, Jorge Crichigno, Elias Bou-Harb, Gautam Srivastava
+    conference: IEEE 43rd International Conference on Telecommunications and Signal Processing, Milan, Italy, July 2020
+
+  - title: Training Engineering Students and IT Professionals on High-throughput Networking and Cybersecurity using a Virtual Environment
+    link: "#"
+    authors: Jorge Crichigno, Elias Bou-Harb, Elie Kfoury, Jose Gomez, Antonio Magnino
+    conference: Annual Conference of the American Society for Engineering Education, Virtual Conference, June 2020
+
+  - title: Decentralized Distribution of PCP Mappings Over Blockchain for End-to-End Secure Direct Communications
+    link: "#"
+    authors: Elie Kfoury, Jose Gomez, Jorge Crichigno, Elias Bou-Harb, David Khoury
+    conference: IEEE Access, August 2019
+
+  - title: Manipulacion sin Contacto de Particulas Utilizando Campos de Ondas Acusticas
+    link: "#"
+    authors: Enrique Vargas, Jose Gomez
+    conference: 9no Encuentro del Grupo Latinoamericano de Emision Acustica, Obera, Misiones, Argentina, August 2017
+
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
