@@ -167,6 +167,9 @@ skills:
   - name: C/C++
     level: 90%
 
+  - name: VHDL/Verilog
+    level: 80%
+
   - name: Javascript
     level: 90%
 
