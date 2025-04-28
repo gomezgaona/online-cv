@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: jagomez_at_fortlewis_edu
   # phone: 012 345 6789
-  timezone: America/Mountain # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  #timezone: America/Mountain # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #citizenship:
   #website: https://gomezgaona.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
   #linkedin: alandoe
@@ -43,20 +43,6 @@ sidebar:
     - idiom: English
       level: Proficient
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
 career-profile:
   title: Career Profile
   summary: |
@@ -71,6 +57,35 @@ career-profile:
     I am committed to fostering inclusive, hands-on learning environments, as reflected in my culturally responsive 
     Course-based Undergraduate Research Experiences (CUREs) and NSF/ONR-funded workshop leadership. My goal is to equip students 
     with the skills and certifications necessary for successful careers in today's technology-driven economy.
+
+experiences:
+  title: Work Experience
+  info:
+  - role: Assistant Professor
+    institution: Fort Lewis College, Katz School of Business
+    time: August 2024 - Present
+    details: |
+      Teaching Computer Information Systems (CIS) and Business Analytics (BA) courses. 
+      Courses include CIS 302 (Network Infrastructure), CIS 352 (IT Security), and BA 223 (Introduction to Data Analysis).
+      Developed culturally responsive Course-based Undergraduate Research Experiences (CUREs) to enhance inclusivity.
+        - Designed hands-on curriculum integrating industry certifications (e.g., Cisco CCNA, Security+).
+        - Emphasized practical skills in networking, cybersecurity, data analytics, and research engagement.
+  - role: Research Assistant
+    institution: University of South Carolina, Integrated Information Technology Department
+    time: January 2019 - July 2024
+    details: |
+      Conducted advanced research in networking, cybersecurity, programmable data planes, and cloud testbeds.
+      Participated in NSF and ONR-funded projects and organized multiple national workshops.
+        - Published over 20 refereed papers in top-tier journals and international conferences.
+        - Led hands-on workshops on BGP, Science DMZs, P4-Programmable Switches, and cybersecurity.
+  - role: Research Assistant
+    institution: Catholic University of Asuncion, Department of Electronics and Informatics
+    time: March 2017 - December 2018
+    details: |
+      Contributed to research on electronics, computer networks, and acoustic particle manipulation.
+      Supported undergraduate courses and participated in regional research initiatives.
+        - Co-authored peer-reviewed conference papers.
+        - Assisted with laboratory sessions and student mentoring.
 
 education:
   title: Education
@@ -117,6 +132,28 @@ publications:
   - title: 'J. Crichigno, E. Bou-Harb, E. Kfoury, J. Gomez, and A. Magnino, "Training Engineering Students and IT Professionals on High-throughput Networking and Cybersecurity using a Virtual Environment," Annual Conference of the American Society for Engineering Education, Virtual Conference, Jun. 2020.'
   - title: 'E. Kfoury, J. Gomez, J. Crichigno, E. Bou-Harb, and D. Khoury, "Decentralized Distribution of PCP Mappings Over Blockchain for End-to-End Secure Direct Communications," IEEE Access, Aug. 2019.'
   - title: 'E. Vargas and J. Gomez, "Manipulacion sin Contacto de Particulas Utilizando Campos de Ondas Acusticas," 9no Encuentro del Grupo Latinoamericano de Emision Acustica, Obera, Misiones, Argentina, Aug. 2017.'
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: Python
+    level: 90%
+
+  - name: P4
+    level: 70%
+
+  - name: C/C++
+    level: 90%
+
+  - name: Javascript
+    level: 90%
+
+  - name: HTML5 & CSS
+    level: 75%
+
+  - name: Bash
+    level: 85%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
