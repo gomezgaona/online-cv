@@ -112,9 +112,9 @@ publications:
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
   - title: 'J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes," Computer Networks, Apr. 2025.'
-    link: /assets/pdfs/Improving_Flow_Fairness_in_Non_programmable_Networks_using_P4_programmable_Data_Planes.pdf
+    link: assets/pdfs/Improving_Flow_Fairness_in_Non_programmable_Networks_using_P4_programmable_Data_Planes.pdf
   - title: 'E. Kfoury, A. Mazloum, J. Gomez, A. AlSabeh, and J. Crichigno, "Real-Time Flow Statistics Collection using RDMA and P4 Programmable Data Planes," IEEE International Conference on Communications, Montreal, Canada, Jun. 2025.'
-    link: /assets/pdfs/real_time.pdf
+    link: assets/pdfs/real_time.pdf
   - title: 'A. Garcia-Lopez, E. Kfoury, J. Gomez, J. Crichigno, and J. Galan-Jimenez, "Real-Time Congestion Control Algorithm Identification with P4 Programmable Switches," IEEE Network Operations and Management Symposium, Honolulu, Hawaii, May 2025.'
     link: /assets/pdfs/real_time_cc.pdf
   - title: 'J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Enabling Fairness in Flow Allocation using P4-programmable Data Planes," IEEE Global Communications Conference, Cape Town, South Africa, Dec. 2024.'
