@@ -111,13 +111,8 @@ publications:
     Below is a selection of my peer-reviewed publications across top-tier journals 
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
-<<<<<<< HEAD
   - title: 'S. Elizalde, A. AlSabeh, A. Mazloum, S. Choueiri, E. Kfoury, J. Crichigno, "A Survey on Security Applications with SmartNICs: Taxonomy, Implementations, Challenges, and Future Trends," Journal of Network and Computer Applications, Jul. 2025.'
     link: assets/pdfs/jnca_smartnic.pdf
-=======
-  - title: 'E. Kfoury,  J. Gomez, A. Mazloum, A. AlSabeh, and J. Crichigno, "Evaluating Encryption Overhead and Offload Techniques in High-Speed Data Transfers," IEEE International Black Sea Conference on Communications and Networking, Chisinau, Moldova, Jun. 2025.'
-    link: assets/pdfs/Black_SeaCom2025.pdf
->>>>>>> 4d406e7403ee23f815c5838ae9a8db9af3093238
   - title: 'J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes," Computer Networks, Apr. 2025.'
     link: assets/pdfs/ComNet2025.pdf
   - title: 'E. Kfoury, A. Mazloum, J. Gomez, A. AlSabeh, and J. Crichigno, "Real-Time Flow Statistics Collection using RDMA and P4 Programmable Data Planes," IEEE International Conference on Communications, Montreal, Canada, Jun. 2025.'
