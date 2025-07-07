@@ -114,7 +114,7 @@ publications:
   - title: 'A. Mazloum, E. Kfoury, A. AlSabeh, J. Gomez, J. Crichigno, "Enhancing Visibility on a Science DMZ with P4-perfSONAR," Journal of Network and Computer Applications, Jul. 2025.'
     link: assets/pdfs/ssrn-5210525.pdf
   - title: 'S. Elizalde, A. AlSabeh, A. Mazloum, S. Choueiri, E. Kfoury, J.Gomez, J. Crichigno, "A Survey on Security Applications with SmartNICs: Taxonomy, Implementations, Challenges, and Future Trends," Journal of Network and Computer Applications, Jul. 2025.'
-    link: assets/pdfs/jnca_smartnic.pdf
+    link: assets/pdfs/jnca1.pdf
   - title: 'J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes," Computer Networks, Apr. 2025.'
     link: assets/pdfs/ComNet2025.pdf
   - title: 'E. Kfoury, A. Mazloum, J. Gomez, A. AlSabeh, and J. Crichigno, "Real-Time Flow Statistics Collection using RDMA and P4 Programmable Data Planes," IEEE International Conference on Communications, Montreal, Canada, Jun. 2025.'
