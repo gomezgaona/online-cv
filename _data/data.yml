@@ -112,7 +112,7 @@ publications:
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
   - title: 'A. Mazloum, E. Kfoury, A. AlSabeh, J. Gomez, J. Crichigno, "Enhancing Visibility on a Science DMZ with P4-perfSONAR," Journal of Network and Computer Applications, Jul. 2025.'
-    link: assets/pdfs/jnca2
+    link: assets/pdfs/jnca2.pdf
   - title: 'S. Elizalde, A. AlSabeh, A. Mazloum, S. Choueiri, E. Kfoury, J.Gomez, J. Crichigno, "A Survey on Security Applications with SmartNICs: Taxonomy, Implementations, Challenges, and Future Trends," Journal of Network and Computer Applications, Jul. 2025.'
     link: assets/pdfs/jnca1.pdf
   - title: 'J. Gomez, E. Kfoury, A. Mazloum, and J. Crichigno, "Improving Flow Fairness in Non-programmable Networks using P4-Programmable Data Planes," Computer Networks, Apr. 2025.'
