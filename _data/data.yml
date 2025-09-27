@@ -111,6 +111,8 @@ publications:
     Below is a selection of my peer-reviewed publications across top-tier journals 
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
+  - title: 'A. Mazloum, S. Elizalde, S. Choueiri, E. Kfoury, J. Gomez, A. AlSabeh, J. Crichigno, "Optimizing Network Resilience Using Domain-Specific Hardware Accelerator for Dynamic Programming," 12th Annual International Workshop on Innovating the Network for Data-Intensive Science (INDIS), St. Louis, Missouri, Nov. 2025.'
+    link: assets/pdfs/indis_2025.pdf
   - title: 'A. Mazloum, E. Kfoury, A. AlSabeh, J. Gomez, J. Crichigno, "Enhancing Visibility on a Science DMZ with P4-perfSONAR," Journal of Network and Computer Applications, Jul. 2025.'
     link: assets/pdfs/jnca2.pdf
   - title: 'S. Elizalde, A. AlSabeh, A. Mazloum, S. Choueiri, E. Kfoury, J.Gomez, J. Crichigno, "A Survey on Security Applications with SmartNICs: Taxonomy, Implementations, Challenges, and Future Trends," Journal of Network and Computer Applications, Jul. 2025.'
