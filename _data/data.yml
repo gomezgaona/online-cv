@@ -104,7 +104,7 @@ publications:
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
   - title: 'J. Gomez, A. AlSabeh, A. Mazloum, E. Kfoury, R. Harik, T. Wuest, J. Crichigno, "A Testbed to Evaluate Next-Generation Security Solutions in Cyber-Physical Systems using Hardware Acceleration," IEEE Consumer Communications & Networking Conference (CCNC), th International Workshop on Security Trust Privacy for Cyber-Physical Systems (STP&CPS), Las Vegas, NV, Jan., 2026'
-    link: assets/pdfs/ccnc_2026_conference.pdf
+    link: assets/pdfs/ccnc_2026_workshop2-5.pdf
   - title: 'S. Elizalde, S. Choueiri, A. Mazloum, J. Gomez, A. AlSabeh, E. Kfoury, J. Crichigno, "Accelerating Anomaly Detection in Industrial Control Systems Using SmartNICs and DPDK," IEEE Consumer Communications & Networking Conference (CCNC), Workshop on IoT Interoperability and the Web of Things (IIWOT), Las Vegas, NV, Jan., 2026'
     link: assets/pdfs/iiwot26_ccnc_wkshop_ics_anomaly_1.pdf
   - title: 'J. Gomez, S. Choueiri, A. Mazloum, S. Elizalde, Amith GSPN, A. AlSabeh, E. Kfoury, J. Crichigno, "Design and Deployment of a Testbed for SmartNIC and Programmable Data Plane Experimentation," IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, Jan., 2026'
