@@ -46,17 +46,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am an Assistant Professor at Fort Lewis College, specializing in Computer Information Systems and Business Analytics. 
-    My academic career is supported by a Ph.D. in Informatics from the University of South Carolina, where I conducted research 
-    on networking, cybersecurity, and programmable data planes, leading to multiple publications in high-impact journals and conferences.
-
-    Prior to joining Fort Lewis College, I gained extensive research experience through roles at the University of South Carolina 
-    and the Catholic University of Asuncion. My work bridges academic excellence with industry certifications, focusing on 
-    cutting-edge technologies like TCP Congestion Control, SDN, Open vSwitch, and programmable networking with P4.
-
-    I am committed to fostering inclusive, hands-on learning environments, as reflected in my culturally responsive 
-    Course-based Undergraduate Research Experiences (CUREs) and NSF/ONR-funded workshop leadership. My goal is to equip students 
-    with the skills and certifications necessary for successful careers in today's technology-driven economy.
+   I am an Assistant Professor of Computer Information Systems and Business Analytics at Fort Lewis College, where I focus on networking, cybersecurity, and data-driven decision making. I hold a Ph.D. in Informatics from the University of South Carolina, where my research centered on next-generation network acceleration, including programmable data planes, SmartNICs, DPUs, and TCP congestion control. This work has led to multiple publications in reputable journals and conferences and to the design of testbeds that support reproducible, high-performance networking experiments.
+   
+   Before joining Fort Lewis College, I gained extensive research and teaching experience at the University of South Carolina and the Catholic University of Asunción. My current work bridges advanced networking research with practical, industry-aligned education, including topics such as SDN, Open vSwitch, P4-based programmable networking, and cloud-based virtual laboratories.
 
 experiences:
   title: Work Experience
@@ -111,6 +103,12 @@ publications:
     Below is a selection of my peer-reviewed publications across top-tier journals 
     and international conferences, focusing on networking, cybersecurity, and programmable data planes.
   papers:
+  - title: 'J. Gomez, A. AlSabeh, A. Mazloum, E. Kfoury, R. Harik, T. Wuest, J. Crichigno, "A Testbed to Evaluate Next-Generation Security Solutions in Cyber-Physical Systems using Hardware Acceleration," IEEE Consumer Communications & Networking Conference (CCNC), th International Workshop on Security Trust Privacy for Cyber-Physical Systems (STP&CPS), Las Vegas, NV, Jan., 2026'
+    link: assets/pdfs/ccnc_2026_conference.pdf
+  - title: 'S. Elizalde, S. Choueiri, A. Mazloum, J. Gomez, A. AlSabeh, E. Kfoury, J. Crichigno, "Accelerating Anomaly Detection in Industrial Control Systems Using SmartNICs and DPDK," IEEE Consumer Communications & Networking Conference (CCNC), Workshop on IoT Interoperability and the Web of Things (IIWOT), Las Vegas, NV, Jan., 2026'
+    link: assets/pdfs/iiwot26_ccnc_wkshop_ics_anomaly_1.pdf
+  - title: 'J. Gomez, S. Choueiri, A. Mazloum, S. Elizalde, Amith GSPN, A. AlSabeh, E. Kfoury, J. Crichigno, "Design and Deployment of a Testbed for SmartNIC and Programmable Data Plane Experimentation," IEEE Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, Jan., 2026'
+    link: assets/pdfs/ccnc_2026_conference.pdf
   - title: 'A. Mazloum, S. Elizalde, S. Choueiri, E. Kfoury, J. Gomez, A. AlSabeh, J. Crichigno, "Optimizing Network Resilience Using Domain-Specific Hardware Accelerator for Dynamic Programming," 12th Annual International Workshop on Innovating the Network for Data-Intensive Science (INDIS), St. Louis, Missouri, Nov. 2025.'
     link: assets/pdfs/indis_2025.pdf
   - title: 'A. Mazloum, E. Kfoury, A. AlSabeh, J. Gomez, J. Crichigno, "Enhancing Visibility on a Science DMZ with P4-perfSONAR," Journal of Network and Computer Applications, Jul. 2025.'
